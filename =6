@@ -1,0 +1,36 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /anaconda3/envs/cs109b
+
+  added / updated specs:
+    - notebook
+    - ptvsd
+    - xeus-python=0.6.7
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    jedi-0.15.2                |           py37_0         753 KB  conda-forge
+    ptvsd-4.3.2                |   py37h0b31af3_0         4.7 MB  conda-forge
+    xeus-0.23.5                |       ha1b3eb9_0         1.2 MB  conda-forge
+    xeus-python-0.6.7          |   py37ha1b3eb9_1         260 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         6.9 MB
+
+The following NEW packages will be INSTALLED:
+
+  ptvsd              conda-forge/osx-64::ptvsd-4.3.2-py37h0b31af3_0
+  xeus               conda-forge/osx-64::xeus-0.23.5-ha1b3eb9_0
+  xeus-python        conda-forge/osx-64::xeus-python-0.6.7-py37ha1b3eb9_1
+
+The following packages will be DOWNGRADED:
+
+  jedi                                        0.16.0-py37_0 --> 0.15.2-py37_0
+
+
+Proceed ([y]/n)? 
